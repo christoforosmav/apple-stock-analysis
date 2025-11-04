@@ -17,4 +17,8 @@ rolling statistics (mean and volatility), and visualization of key financial met
 
 ![image alt](https://github.com/christoforosmav/apple-stock-analysis/blob/31aac2fa7c0a86edc6b0916f7ec634d288fdb0a0/Apple%20stock%20price%20-%20Rolling%20Mean.png)
   
+![image alt](https://github.com/christoforosmav/apple-stock-analysis/blob/0bc802d6a8240f27be36de5da440cef66b6808e8/Cumulative%20return.png)
 
+![image alt](https://github.com/christoforosmav/apple-stock-analysis/blob/0bc802d6a8240f27be36de5da440cef66b6808e8/Daily%20returns.png)
+
+![image alt](https://github.com/christoforosmav/apple-stock-analysis/blob/0bc802d6a8240f27be36de5da440cef66b6808e8/Rolling%20volatility.png)
