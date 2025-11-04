@@ -1,2 +1,19 @@
-# apple-stock-analysis
-Analysis of Apple (AAPL) stock data with daily and cumulative returns, rolling statistics, and visualizations.
+# A. Apple Stock Analysis (AAPL)
+
+This project analyzes historical stock data of Apple (AAPL) from 2020 to 2025. 
+It demonstrates data exploration, calculation of daily and cumulative returns, 
+rolling statistics (mean and volatility), and visualization of key financial metrics.
+
+# B. Skills
+
+## Skills Demonstrated
+- Python (pandas, numpy, matplotlib)
+- Financial data analysis
+- Time series analysis
+- Data visualization
+- Extracting insights from financial metrics
+
+# C. Plots
+
+  
+
