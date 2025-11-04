@@ -6,7 +6,7 @@ rolling statistics (mean and volatility), and visualization of key financial met
 
 # B. Skills
 
-## Skills Demonstrated
+### Skills Demonstrated
 - Python (pandas, numpy, matplotlib)
 - Financial data analysis
 - Time series analysis
@@ -15,5 +15,6 @@ rolling statistics (mean and volatility), and visualization of key financial met
 
 # C. Plots
 
+![image alt](https://github.com/christoforosmav/apple-stock-analysis/blob/31aac2fa7c0a86edc6b0916f7ec634d288fdb0a0/Apple%20stock%20price%20-%20Rolling%20Mean.png)
   
 
