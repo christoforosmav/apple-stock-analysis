@@ -32,7 +32,7 @@ rolling statistics (mean and volatility), and visualization of key financial met
 
 # E. Insights
 
-#### some of the key insights:
+#### Some of the key insights:
 
 - Daily returns fluctuate around 0, indicating that on most days the stock doesn’t move drastically. Also, we observe several volatility spikes during certain periods, indicating days of strong market reactions or major company announcements. Compared to 2020–2022 (COVID-19, energy crises and more), the 2025 period appears relatively stable, with fewer sharp daily fluctuations.
 - The cumulative return shows overall growth of the investment over 5 years.
